@@ -1,0 +1,20 @@
+"Danh s¸ch cÊp giÊy chøng nhËn t¹i th«n H­íng §¹i, x· H­íng Phïng, tØnh Qu¶ng TrÞ"							
+							
+STT	Chñ sö dông	§Þa chØ thöa ®Êt	Tê b¶n ®å	Sè hiÖu thöa	DiÖn tÝch	"Môc ®Ých
+sö dông"	Ghi chó
+1	Lª §øc ChØnh	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	1	4130.6	CLN	
+2	Hå V¨n Bµn	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	52	1401.7	ONT+CLN	
+3	Hå V¨n Linh	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	103	3946.5	CLN	
+4	TrÇn §×nh Nh©n	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	104	5103.5	CLN	
+5	Lª V¨n ñy	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	146	2597.7	CLN	
+6	Hå V¨n Kh©m	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	193	4001.9	CLN	
+7	Hå V¨n Kh©m	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	296	3767.1	CLN	
+8	Lª Quang DiÔn	"Th«n H­íng §¹i, xÉ H­íng Phïng"	46	307	6369.2	CLN	
+9	Hå V¨n §o¹t	"Th«n H­íng §¹i, xÉ H­íng Phïng"	36	124	7882.1	CLN	
+10	Hå ThÞ Th¶o	"Th«n H­íng §¹i, xÉ H­íng Phïng"	36	199	12167.4	CLN	
+11	Hå V¨n Th­¬ng	"Th«n H­íng §¹i, xÉ H­íng Phïng"	36	253	9651.1	CLN	
+12	Lª V¨n ñy	"Th«n H­íng §¹i, xÉ H­íng Phïng"	37	243	11550.1	CLN	
+13	Hå ThÞ Nga	"Th«n H­íng §¹i, xÉ H­íng Phïng"	37	251	3178.8	CLN	
+14	Hå A §¸t	"Th«n H­íng §¹i, xÉ H­íng Phïng"	37	296	9337.2	CLN	
+15	L­¬ng C«ng L©p	"Th«n H­íng §¹i, xÉ H­íng Phïng"	37	297	18805.4	CLN	
+16	Hå V¨n Bµn	"Th«n H­íng §¹i, xÉ H­íng Phïng"	37	229	14703	CLN	

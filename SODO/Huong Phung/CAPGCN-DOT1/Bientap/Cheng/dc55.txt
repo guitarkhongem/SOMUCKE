@@ -1,0 +1,84 @@
+"Danh s¸ch cÊp giÊy chøng nhËn t¹i th«n Cheng, x· H­íng Phïng, huyÖn H­íng Hãa, tØnh Qu¶ng TrÞ"							
+							
+STT	Ch? s? d?ng	?ia ch? th?a ??t	T? b?n ??	Sè hiÖu thöa	DiÖn tÝch	"Môc ®Ých
+sö dông"	Ghi chó
+1	Hå V¨n Võa	"Th«n Cheng, x· H­íng Phïng"	55	82	2848.6	CLN	
+2	Hå ThÞ Mun	"Th«n Cheng, x· H­íng Phïng"	55	88	1428.6	CLN	
+3	Hå V¨n Hoµn	"Th«n Cheng, x· H­íng Phïng"	55	92	2065.8	CLN	
+4	Hå V¨n VÏ	"Th«n Cheng, x· H­íng Phïng"	55	94	2073	ONT+CLN	
+5	Hå L­¬ng	"Th«n Cheng, x· H­íng Phïng"	55	97	3623	CLN	
+6	Hå Nhê	"Th«n Cheng, x· H­íng Phïng"	55	107	3644.9	CLN	
+7	Hå Ta Míc	"Th«n Cheng, x· H­íng Phïng"	55	115	10498	CLN	
+8	Hå ThÞ Mun	"Th«n Cheng, x· H­íng Phïng"	55	121	3850.3	CLN	
+9	Hå V¨n §¨ng	"Th«n Cheng, x· H­íng Phïng"	55	126	5980.7	CLN	
+10	Lª ThÞ Chu«ng	"Th«n Cheng, x· H­íng Phïng"	55	128	10537.8	CLN	
+11	Sa PÐt	"Th«n Cheng, x· H­íng Phïng"	55	131	1337.6	CLN	
+12	Hå S·	"Th«n Cheng, x· H­íng Phïng"	55	134	5016.2	CLN	
+13	Hå V¨n Ch­ëng	"Th«n Cheng, x· H­íng Phïng"	55	135	5259	CLN	
+14	Hå L­¬ng	"Th«n Cheng, x· H­íng Phïng"	55	138	8198.6	CLN	
+15	Hå V¨n Hinh	"Th«n Cheng, x· H­íng Phïng"	55	160	11206.3	CLN	
+16	Hå V¨n Tóc	"Th«n Cheng, x· H­íng Phïng"	55	193	1155.3	CLN	
+17	Hå ThÞ Ta Khªn	"Th«n Cheng, x· H­íng Phïng"	55	206	3321.4	CLN	
+18	Hå ThÞ ThÎo	"Th«n Cheng, x· H­íng Phïng"	55	207	2772	CLN	
+19	V¨n B¸ HiÖp	"Th«n Cheng, x· H­íng Phïng"	55	208	1543.5	CLN	
+20	Hå ThÞ Mun	"Th«n Cheng, x· H­íng Phïng"	55	209	959.5	CLN	
+21	Hå V¨n ChÝ	"Th«n Cheng, x· H­íng Phïng"	55	210	6342.7	CLN	
+22	Hå V¨n Kh­¬ng	"Th«n Cheng, x· H­íng Phïng"	55	211	8355.4	CLN	
+23	V¨n §øc LuyÕn	"Th«n Cheng, x· H­íng Phïng"	54	84	9585.7	TSN	
+24	V¨n B¸ HiÖp	"Th«n Cheng, x· H­íng Phïng"	54	93	2731.5	TSN	
+25	Bïi V¨n §«ng	"Th«n Cheng, x· H­íng Phïng"	54	108	8576.9	CLN	
+26	Hå V¨n TÕ	"Th«n Cheng, x· H­íng Phïng"	54	177	10026.2	CLN	
+27	Hå V¨n Quang	"Th«n Cheng, x· H­íng Phïng"	54	178	8505.2	CLN	
+28	Hå V¨n TrÝ	"Th«n Cheng, x· H­íng Phïng"	54	179	1273.4	CLN	
+29	Hå V¨n N¨m	"Th«n Cheng, x· H­íng Phïng"	54	180	2363.6	CLN	
+30	Hå V¨n TrÝ	"Th«n Cheng, x· H­íng Phïng"	44	108	2271.7	CLN	
+31	Hå Ta O	"Th«n Cheng, x· H­íng Phïng"	44	171	11654.4	CLN	
+32	Lª V¨n Tóc	"Th«n Cheng, x· H­íng Phïng"	44	217	2063.6	CLN	
+33	Hå ThÞ Mun	"Th«n Cheng, x· H­íng Phïng"	44	223	5043.6	CLN	
+34	Lª V¨n Tóc	"Th«n Cheng, x· H­íng Phïng"	44	231	11245	CLN	
+35	Hå V¨n Th©n	"Th«n Cheng, x· H­íng Phïng"	44	297	4323.4	CLN	
+36	Hå V¨n VÎ	"Th«n Cheng, x· H­íng Phïng"	44	299	1896.1	CLN	
+37	Lª V¨n Tóc	"Th«n Cheng, x· H­íng Phïng"	44	347	14662.8	CLN	
+38	TrÇn ThÞ H­¬ng	"Th«n Cheng, x· H­íng Phïng"	3	91	16518	CLN	
+39	Hå V¨n §µ	"Th«n Cheng, x· H­íng Phïng"	3	250	4268.5	CLN	
+40	Hå V¨n Vinh	"Th«n Cheng, x· H­íng Phïng"	3	251	9537.4	CLN	
+41	Hå ThÞ Ta Khªn	"Th«n Cheng, x· H­íng Phïng"	3	252	6661	CLN	
+42	TrÇn Thµnh Vinh	"Th«n Cheng, x· H­íng Phïng"	3	253	4268.5	CLN	
+43	Hå ViÕt Sao	"Th«n Cheng, x· H­íng Phïng"	63	62	11759	CLN	
+44	Hå ViÕt Sao	"Th«n Cheng, x· H­íng Phïng"	63	67	1951	CLN	
+45	Hå ViÕt Sao	"Th«n Cheng, x· H­íng Phïng"	63	68	4925	CLN	
+46	Hå V¨n Hïng	"Th«n Cheng, x· H­íng Phïng"	64	92	8040	CLN	
+47	Hå Khang	"Th«n Cheng, x· H­íng Phïng"	64	56	15173	CLN	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

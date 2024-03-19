@@ -1,0 +1,130 @@
+STT	Chñ sö dông	§Þa chØ thöa ®Êt	Tê b¶n ®å	Sè hiÖu thöa	DiÖn tÝch	"Môc ®Ých
+ sö dông"	Ghi chó
+1	Hå Reo	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	422	8925	CLN	
+2	Hå V¨n B¶y	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	367	10011.3	CLN	
+3	Hå Ta Mõng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	381	9717	CLN	
+4	§Êt ch­a giao	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	411	1442.9	CLN	
+5	Hå A TuÊt	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	421	13229.6	CLN	
+6	Hå Minh Linh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	369	34377.3	CLN	
+7	Hå V¨n Nha	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	408	18922	CLN	
+8	Hå V¨n L¬	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	430	3284.5	CLN	
+9	Hå H©n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	372	19544.5	CLN	
+10	Hå Ka Non	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	407	22827.5	CLN	
+11	Hå Ka Non	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	424	5552.2	CLN	
+12	Hå Lu«ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	427	11379.4	CLN	
+13	Hå MÇn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	414	18940.4	CLN	
+14	Hå Nh­n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	416	4934.3	CLN	
+15	Hå Nh­n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	460	3242.5	CLN	
+16	Hå Pheng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	380	8364.2	CLN	
+17	Hå Phóc	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	409	8042.3	CLN	
+18	Hå Reo	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	429	11746.9	CLN	
+19	Hå Tµ Cõ	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	394	10973.8	CLN	
+20	Hå Ta M¨ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	404	14545.5	CLN	
+21	Hå TÆc	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	441	3530.2	CLN	
+22	Hå TÆc	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	456	3214.2	CLN	
+23	Hå ThÞ ÊT	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	425	9989.8	CLN	
+24	Hå ThÞ Hµ	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	470	4635.5	CLN	
+25	Hå ThÞ Liªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	387	6863.5	CLN	
+26	Hå ThÞ Mã	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	384	5028	CLN	
+27	Hå ThÞ Mã	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	464	1901	CLN	
+28	Hå ThÞ Pan	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	435	15696.2	CLN	
+29	Hå ThÞ Phon	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	428	12247.5	CLN	
+30	Hå ThÞ Son	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	402	4124.3	CLN	
+31	Hå ThÞ T©m	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	375	12457.6	CLN	
+32	Hå Tinh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	426	6143.8	CLN	
+33	Hå Tinh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	432	3235.7	CLN	
+34	Hå V¨n ¤	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	469	11263.3	CLN	
+35	Hå V¨n §¸	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	445	7467.9	CLN	
+36	Hå V¨n §ång	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	472	3168.5	CLN	
+37	Hå V¨n §é	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	448	1165.6	CLN	
+38	Hå V¨n §é	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	451	3571.7	CLN	
+39	Hå V¨n §é	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	453	2072	CLN	
+40	Hå V¨n §inh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	433	5444	CLN	
+41	Hå V¨n §o¹t	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	461	8699	CLN	
+42	Hå V¨n §Þa	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	447	6311	CLN	
+43	Hå V¨n Ban	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	437	6701	CLN	
+44	Hå V¨n B­n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	455	2720.6	CLN	
+45	Hå V¨n C¶nh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	368	5974.2	CLN	
+46	Hå V¨n Ch¨n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	374	14272.3	CLN	
+47	Hå V¨n Ch©n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	383	11057.2	CLN	
+48	Hå V¨n Dan	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	362	21010.3	CLN	
+49	Hå V¨n DuÈn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	403	7581.9	CLN	
+50	Hå V¨n Giang	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	382	7819.4	CLN	
+51	Hå V¨n H«n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	434	10451.7	CLN	
+52	Hå V¨n Ho¹t	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	463	12588.1	CLN	
+53	Hå V¨n Kh¨n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	385	3373.4	CLN	
+54	Hå V¨n Kh¨n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	405	19339.9	CLN	
+55	Hå V¨n Kh¸nh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	373	9349.2	CLN	
+56	Hå V¨n Khang	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	397	8101.5	CLN	
+57	Hå V¨n L¨ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	467	4795.2	CLN	
+58	Hå V¨n M¨c	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	449	6678.7	CLN	
+59	Hå V¨n MÆc	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	468	685.2	CLN	
+60	Hå V¨n Ng©n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	393	1413.8	CLN	
+61	Hå V¨n Ng©n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	400	3621	CLN	
+62	Hå V¨n Nh¬	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	418	3080	CLN	
+63	Hå V¨n Nhê	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	412	7821.7	CLN	
+64	Hå V¨n Nhoan	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	410	12082.1	CLN	
+65	Hå V¨n Pen	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	436	21672.9	CLN	
+66	Hå V¨n Phong	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	395	1876	CLN	
+67	Hå V¨n Phong	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	399	6787.5	CLN	
+68	Hå V¨n Phong	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	413	895.1	CLN	
+69	Hå V¨n Phun	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	379	18964.8	CLN	
+70	Hå V¨n Phun	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	392	11906.3	CLN	
+71	Hå V¨n Phun	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	431	9445.2	CLN	
+72	Hå V¨n Pu«n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	454	8206	CLN	
+73	Hå V¨n Pu«n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	458	9049.1	CLN	
+74	Hå V¨n Quan	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	440	6465.8	CLN	
+75	Hå V¨n R¨ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	396	1717.5	CLN	
+76	Hå V¨n R¨ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	406	3602.3	CLN	
+77	Hå V¨n Riªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	462	9709.6	CLN	
+78	Hå V¨n Riªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	471	4221.4	CLN	
+79	Hå V¨n T¾c	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	401	5140.5	CLN	
+80	Hå V¨n Tha	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	389	6416.2	CLN	
+81	Hå V¨n Than	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	391	20428.1	CLN	
+82	Hå V¨n Than	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	420	3599.7	CLN	
+83	Hå V¨n Thanh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	478	1267.4	CLN	
+84	Hå V¨n ThÕ	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	377	10318.5	CLN	
+85	Hå V¨n Tiªu	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	415	2895.5	CLN	
+86	Hå V¨n Tin	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	419	5394.8	CLN	
+87	Hå V¨n Tin	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	439	6317.2	CLN	
+88	Hå V¨n TiÒu	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	370	2944.5	CLN	
+89	Hå V¨n Toµn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	388	16993.3	CLN	
+90	Hå V¨n Tr×nh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	398	12919.6	CLN	
+91	Hå V¨n Tr¾c	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	442	1971.5	CLN	
+92	Hå V¨n TuÊn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	366	8170.3	CLN	
+93	Hå V¨n TuÊn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	390	5726	CLN	
+94	Hå V¨n TÝn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	378	8924	CLN	
+95	Hå V¨n Viªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	444	1220	CLN	
+96	Hå V¨n Viªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	452	2103	CLN	
+97	Hå V¨n Viªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	459	2416.5	CLN	
+98	Hå V¨n ý	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	386	7597.5	CLN	
+99	Hå V¨n Yªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	446	4313.8	CLN	
+100	Hå V¨n Yªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	450	2190.3	CLN	
+101	Hå V¨n Yªn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	481	3804	CLN	
+102	Hå Vinh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	417	6955	CLN	
+103	Hå Vinh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	438	2232	CLN	
+104	Hå Vinh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	443	13378.6	CLN	
+105	Hoµng V¨n Hµ	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	371	5041.8	CLN	
+106	Hoµng V¨n ThÕ	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	376	16263.7	CLN	
+107	Hå V¨n V©n	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	365	25580.5	CLN	
+108	Ng« ThÞ Hoa	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	475	1020.7	CLN	
+109	Ng« ThÞ Hoa	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	476	8264.4	CLN	
+110	Ng« ThÞ Hoa	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	479	3387.4	CLN	
+111	NguyÔn H÷u Chung	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	423	646.4	CLN	
+112	NguyÔn Thanh Phong	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	477	5008.9	CLN	
+113	Ph¹m H÷u Thµnh	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	363	11033.2	CLN	
+114	Phan §×nh Th­êng	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	364	7253	CLN	
+115	Vâ Ch¸nh Thi	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	457	12776.1	CLN	
+116	Vâ V¨n DiÔn	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	465	29228.6	CLN	
+117	Vò §×nh Tµi	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	466	1728.2	CLN	
+118	Vò §×nh Tµi	"Th«n Bôt ViÖt, x· H­íng Phïng"	2	474	7517.5	CLN	
+119	Ph¹m H÷u Thµnh	"Th«n Bôt ViÖt, x· H­íng Phïng"	21	183	9680	CLN	
+120	Hå V¨n B¶y	"Th«n Bôt ViÖt, x· H­íng Phïng"	27	74	798	CLN	
+121	Lª §øc Minh	"Th«n Bôt ViÖt, x· H­íng Phïng"	27	282	8816	CLN	
+122	Hå V¨n Dên	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	249	2586	CLN	
+123	Hå V¨n Nh¬	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	55	8442	CLN	
+124	Hå V¨n Kh¨n	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	109	2217	CLN	
+125	TrÇn ThÞ Mua	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	237	1333	CLN	
+126	Hå V¨n L¨ng	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	250	405	CLN	
+127	Tr­¬ng Thanh H¹nh	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	251	406	ONT+CLN	
+128	Hå Ta C¬n	"Th«n Bôt ViÖt, x· H­íng Phïng"	36	252	1115		

@@ -1,0 +1,25 @@
+STT	Tªn chñ sö dông	§Þac chØ thöa ®Êt	Tê b¶n ®å	Sè hiÖu thöa	DiÖn tÝch	"Môc ®Ých 
+sö dông"	Ghi chó
+1	Lª V¨n DiÕu	"Th«n T©n Pun, x· H­íng Phïng"	76	18	2737	CLN	
+2	NguyÔn Thñy	"Th«n T©n Pun, x· H­íng Phïng"	75	20	5138	ONT+LNC	
+3	NguyÔn Thñy	"Th«n T©n Pun, x· H­íng Phïng"	75	29	5050	CLN	
+4	Hå §i Nh·	"Th«n T©n Pun, x· H­íng Phïng"	75	130	7030	CLN	
+5	Lª V¨n DiÕu	"Th«n T©n Pun, x· H­íng Phïng"	75	133	4856	CLN	
+6	Cao V¨n Giang	"Th«n T©n Pun, x· H­íng Phïng"	75	134	4377	CLN	
+7	Lª Quang Trung	"Th«n T©n Pun, x· H­íng Phïng"	75	152	319	ONT+CLN	
+8	Lª N«	"Th«n T©n Pun, x· H­íng Phïng"	75	153	272	ONT+CLN	
+9	C¸t Kim Thu	"Th«n T©n Pun, x· H­íng Phïng"	75	154	286	ONT+CLN	
+10	Lª Nª	"Th«n T©n Pun, x· H­íng Phïng"	75	166	314	ONT+CLN	
+11	Lª Quang To¶n	"Th«n T©n Pun, x· H­íng Phïng"	75	167	232	ONT+CLN	
+12	Lª V¨n DiÕu	"Th«n T©n Pun, x· H­íng Phïng"	75	300	1727	CLN	
+13	Lª ThÞ Khuª	"Th«n T©n Pun, x· H­íng Phïng"	75	301	7549	CLN	
+14	Phan Hång Phong	"Th«n T©n Pun, x· H­íng Phïng"	74	49	325	ONT+CLN	
+15	D­¬ng C«ng Quèc	"Th«n T©n Pun, x· H­íng Phïng"	68	23	607	CLN	
+16	NguyÔn V¨n DiÔn	"Th«n T©n Pun, x· H­íng Phïng"	67	47	2870	CLN	
+17	Lª ThÞ Sª	"Th«n T©n Pun, x· H­íng Phïng"	67	49	4815	CLN	
+18	NguyÔn V¨n DiÔn	"Th«n T©n Pun, x· H­íng Phïng"	67	80	6703	CLN	
+19	Hoµng Kho¶ng	"Th«n T©n Pun, x· H­íng Phïng"	67	95	3275	CLN	
+20	NguyÔn V¨n Ngäc	"Th«n T©n Pun, x· H­íng Phïng"	4	205	12075	CLN	
+21	Lª Duy CÈm	"Th«n T©n Pun, x· H­íng Phïng"	4	206	7397	CLN	
+22	NguyÔn Ngäc Hoµng	"Th«n T©n Pun, x· H­íng Phïng"	4	207	12336	CLN	
+23	NguyÔn V¨n Huúnh	"Th«n T©n Pun, x· H­íng Phïng"	3	311	2294	CLN	

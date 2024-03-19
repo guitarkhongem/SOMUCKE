@@ -1,0 +1,101 @@
+_____________________________________________________________________________________________________________________________________________________________________________________________
+|Thöa |   T©m X    |     T©m Y  |  DiÖn tÝch |  D/tÝch PL |  Lo¹i ®Êt  |  MDSD2003  |        Tªn chñ sö dông         |           §Þa chØ              |Sh Tam|             Xu dong          |
+|-----|------------|------------|------------|------------|------------|------------|--------------------------------|--------------------------------|------|------------------------------|
+|   0 |  535151.37 | 1851058.47 |      810.2 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n Pai |                                                                                  |            |                                |
+|   0 |  535394.48 | 1851133.78 |      424.1 |        0.0 |       Kh¸c |        CLN |                                     §­êng s¶n xuÊt |                                                                                  |            |                                |
+|   0 |  535347.07 | 1851120.35 |      563.6 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  535232.23 | 1850968.71 |      841.0 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n D¬i |                                                                                  |            |                                |
+|   0 |  535076.53 | 1851154.18 |     2876.4 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n §eng |                                                                                  |            |                                |
+|   0 |  535174.59 | 1851127.35 |     3172.9 |        0.0 |       Kh¸c |        CLN |                                          Hå La H¬i |                                                                                  |            |                                |
+|   0 |  535312.51 | 1850993.00 |     2422.7 |        0.0 |       Kh¸c |        CLN |                                             Hå Lia |                                                                                  |            |                                |
+|   0 |  535263.39 | 1850971.21 |     1162.8 |        0.0 |       Kh¸c |        CLN |                                            Hå Ngèt |                                                                                  |            |                                |
+|   0 |  535172.85 | 1850970.34 |     2206.9 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n §am |                                                                                  |            |                                |
+|   0 |  535198.59 | 1851061.36 |      730.0 |        0.0 |       Kh¸c |        CLN |                                     Tr­êng MÇm Non |                                                                                  |            |                                |
+|   0 |  535059.43 | 1851060.60 |     6988.5 |        0.0 |       Kh¸c |    ONT+CLN |                                     §­êng s¶n xuÊt |                                                                                  |            |                                |
+|   0 |  535364.86 | 1851020.97 |      282.8 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  535209.57 | 1851113.02 |     2288.9 |        0.0 |       Kh¸c |        CLN |                                          Hå La H¬i |                                                                                  |            |                                |
+|   0 |  535207.34 | 1851042.47 |     1097.6 |        0.0 |       Kh¸c |        CLN |                                     TrÇn Phóc Tïng |                                                                                  |            |                                |
+|   0 |  535113.18 | 1850977.78 |     2501.0 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n N¨m |                                                                                  |            |                                |
+|   0 |  535286.97 | 1851151.07 |     2845.4 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n D«c |                                                                                  |            |                                |
+|   0 |  535062.39 | 1850997.27 |     2689.6 |        0.0 |       Kh¸c |        CLN |                                         Hå Ka Nhon |                                                                                  |            |                                |
+|   0 |  535501.12 | 1851133.06 |     8079.2 |        0.0 |       Kh¸c |        CLN |                                           Khe suèi |                                                                                  |            |                                |
+|   0 |  535495.45 | 1851187.09 |     1101.8 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Ch¾t |                                                                                  |            |                                |
+|   0 |  535369.75 | 1851107.58 |     1747.5 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Kh¨m |                                                                                  |            |                                |
+| 278 |  535434.43 | 1851133.43 |     6084.5 |     5788.0 |       Kh¸c |        CLN |                                        Hå V¨n Kh¨m |                                                                                  |            |                                |
+| 282 |  535291.03 | 1851093.99 |     2786.2 |     2786.0 |       Kh¸c |        CLN |                                          Hå Xa Ven |                                                                                  |            |                                |
+| 285 |  535250.96 | 1851084.62 |     4964.1 |     4964.0 |       Kh¸c |    ONT+CLN |                                             Hå N¨m |                                                                                  |            |                                |
+| 286 |  535111.60 | 1851110.54 |     7731.3 |     7731.0 |       Kh¸c |        CLN |                                        Hå V¨n Chót |                                                                                  |            |                                |
+| 296 |  535110.67 | 1851023.44 |     2208.1 |     2208.0 |       Kh¸c |    ONT+CLN |                                      Hå V¨n Nghiªn |                                                                                  |            |                                |
+| 297 |  535342.99 | 1851072.85 |     3949.8 |     3952.0 |       Kh¸c |    ONT+CLN |                                         Hå V¨n Th¬ |                                                                                  |            |                                |
+| 302 |  535262.49 | 1850999.27 |      913.1 |     1493.0 |       Kh¸c |        CLN |                                         Hå V¨n D¬i |                                                                                  |            |                                |
+| 303 |  535201.40 | 1850997.76 |     1368.8 |     1368.0 |       Kh¸c |        CLN |                                         Hå V¨n Pai |                                                                                  |            |                                |
+| 304 |  535177.62 | 1851006.11 |     1008.7 |     1009.0 |       Kh¸c |        CLN |                                         Hå V¨n Mèc |                                                                                  |            |                                |
+| 408 |  535084.89 | 1851050.09 |      396.6 |      397.0 |       Kh¸c |        ONT |                                   NguyÔn M¹nh HiÒn |                                                                                  |            |                                |
+| 409 |  535087.68 | 1851036.99 |      908.4 |      908.0 |       Kh¸c |        ONT |                                        Hå V¨n Miªn |                                                                                  |            |                                |
+| 410 |  535154.72 | 1851011.59 |     1003.7 |     1004.0 |       Kh¸c |        CLN |                                         Hå V¨n MÕc |                                                                                  |            |                                |
+| 411 |  535229.54 | 1851001.47 |     1491.7 |     1490.0 |       Kh¸c |    ONT+CLN |                                          Hå V¨n Pª |                                                                                  |            |                                |
+| 412 |  535285.04 | 1851043.17 |     1896.1 |     1896.0 |       Kh¸c |    ONT+CLN |                                         Hå Xa Reng |                                                                                  |            |                                |
+| 413 |  535326.42 | 1851041.82 |     1143.9 |     1144.0 |       Kh¸c |        CLN |                                          Hå A T¨ng |                                                                                  |            |                                |
+___________________________________________________________________________________________________________________________________________________________________
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		D:\tin\Bientap\bsung15-11\doa cu\dc29.dgn	:193024
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_5:0.010000
+PROCESSING LEVEL:5
+
+OUTPUT DGN FILE:		D:\tin\Bientap\bsung15-11\doa cu\dc29.dgn	:193024
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           0
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         0
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+

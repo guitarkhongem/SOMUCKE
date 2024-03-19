@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>baychuthang</name>
+  <open>1</open>
+  <Style id="Style1">
+    <PolyStyle>
+      <color>ffffffff</color>
+      <outline>1</outline>
+    </PolyStyle>
+    <LineStyle>
+      <color>ffffffff</color>
+      <width>1.5</width>
+    </LineStyle>
+  </Style>
+<LookAt>
+  <longitude>106.6243047609</longitude>
+  <latitude>16.7426473066</latitude>
+  <heading>0.1009640179</heading>
+  <tilt>0.0000000000</tilt>
+  <range>4403.927</range>
+</LookAt>
+<Folder>
+  <name>Levels</name>
+  <Folder>
+    <name>Level 1</name>
+    <Placemark>
+      <name>Style1</name>
+      <styleUrl>#Style1</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                106.6202071734,16.7487468247,0.000 106.6197320379,16.7485378432,0.000 106.6162120552,16.7465156900,0.000 106.6162474577,16.7449617905,0.000 106.6190273047,16.7438284572,0.000 106.6199453509,16.7423284713,0.000 106.6207303697,16.7414946503,0.000 106.6231480928,16.7416382781,0.000 106.6240557210,16.7446518168,0.000 106.6253232490,16.7452784489,0.000 106.6235045115,16.7473165332,0.000 106.6202071734,16.7487468247,0.000 
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                106.6202071734,16.7487468247,0.000 106.6197320379,16.7485378432,0.000 106.6162120552,16.7465156900,0.000 106.6162474577,16.7449617905,0.000 106.6190273047,16.7438284572,0.000 106.6199453509,16.7423284713,0.000 106.6207303697,16.7414946503,0.000 106.6231480928,16.7416382781,0.000 106.6240557210,16.7446518168,0.000 106.6253232490,16.7452784489,0.000 106.6235045115,16.7473165332,0.000 106.6202071734,16.7487468247,0.000 
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Folder>
+</Document>
+</kml>
