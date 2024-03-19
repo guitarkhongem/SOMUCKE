@@ -1,0 +1,80 @@
+_____________________________________________________________________________________________________________________________________________________________________________________________
+|Thöa |   T©m X    |     T©m Y  |  DiÖn tÝch |  D/tÝch PL |  Lo¹i ®Êt  |  MDSD2003  |        Tªn chñ sö dông         |           §Þa chØ              |Sh Tam|             Xu dong          |
+|-----|------------|------------|------------|------------|------------|------------|--------------------------------|--------------------------------|------|------------------------------|
+|   0 |  538096.35 | 1846579.18 |      697.7 |        0.0 |       Kh¸c |        CLN |                                           Khe suèi |                                                                                  |            |                                |
+|   0 |  537945.11 | 1846571.30 |     3614.8 |        0.0 |       Kh¸c |        CLN |                                   NguyÔn §¨ng Nghi |                                                                                  |            |                                |
+|   0 |  537890.78 | 1846503.53 |     1571.7 |        0.0 |       Kh¸c |        CLN |                                       TrÇn ThÞ Lîi |                                                                                  |            |                                |
+|   0 |  538089.28 | 1846495.51 |      542.8 |        0.0 |       Kh¸c |        CLN |                                             Lª Tßa |                                                                                  |            |                                |
+|   0 |  538166.27 | 1846556.83 |     2170.9 |        0.0 |       Kh¸c |        CLN |                                        §Êt «ng H¶o |                                                                                  |            |                                |
+|   0 |  537994.36 | 1846501.64 |     3036.7 |        0.0 |       Kh¸c |        CLN |                                   NguyÔn Quang H¶i |                                                                                  |            |                                |
+|   0 |  538069.75 | 1846524.88 |      723.8 |        0.0 |       Kh¸c |        CLN |                                   NguyÔn §¨ng Nghi |                                                                                  |            |                                |
+|   0 |  538104.42 | 1846486.06 |      769.5 |        0.0 |       Kh¸c |        CLN |                                        Vâ C«ng S¾t |                                                                                  |            |                                |
+|   0 |  538163.68 | 1846024.48 |      839.9 |        0.0 |       Kh¸c |        CLN |                                        Lª ThÞ Bång |                                                                                  |            |                                |
+|   0 |  538300.82 | 1846010.35 |      899.1 |        0.0 |       Kh¸c |        CLN |                                     §­êng s¶n xuÊt |                                                                                  |            |                                |
+|   0 |  538176.07 | 1845991.52 |      676.9 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Kh¨m |                                                                                  |            |                                |
+| 205 |  537985.65 | 1846539.71 |    12074.8 |    12075.0 |       Kh¸c |        CLN |                                    NguyÔn V¨n Ngäc |                                                                                  |            |                                |
+| 206 |  538119.66 | 1846550.72 |     7397.3 |     7397.0 |       Kh¸c |        CLN |                                         Lª Duy CÈm |                                                                                  |            |                                |
+| 207 |  538282.94 | 1845971.97 |    12336.5 |    12336.0 |       Kh¸c |        CLN |                                  NguyÔn Ngäc Hoµng |                                                                                  |            |                                |
+___________________________________________________________________________________________________________________________________________________________________
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		D:\BAO TIN\DU AN\HuongPhung\Tanpun\dc04.dgn	:408576
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_6:0.010000
+PROCESSING LEVEL:6
+
+OUTPUT DGN FILE:		D:\BAO TIN\DU AN\HuongPhung\Tanpun\dc04.dgn	:400384
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           47
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  1
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         1
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+

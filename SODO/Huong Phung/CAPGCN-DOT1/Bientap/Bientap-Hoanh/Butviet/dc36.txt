@@ -1,0 +1,149 @@
+_____________________________________________________________________________________________________________________________________________________________________________________________
+|Thöa |   T©m X    |     T©m Y  |  DiÖn tÝch |  D/tÝch PL |  Lo¹i ®Êt  |  MDSD2003  |        Tªn chñ sö dông         |           §Þa chØ              |Sh Tam|             Xu dong          |
+|-----|------------|------------|------------|------------|------------|------------|--------------------------------|--------------------------------|------|------------------------------|
+|   0 |  534213.74 | 1850838.77 |      887.3 |        0.0 |       Kh¸c |        CLN |                               §­êng giao th«ng, 8m |                                                                                  |            |                                |
+|   0 |  534350.02 | 1850706.80 |     5941.8 |        0.0 |       Kh¸c |        CLN |                                          Hå V¨n §¬ |                                                                                  |            |                                |
+|   0 |  534110.26 | 1850829.61 |     1287.3 |        0.0 |       Kh¸c |        CLN |                                             Hå S¬n |                                                                                  |            |                                |
+|   0 |  534065.97 | 1850410.36 |     3463.5 |        0.0 |       Kh¸c |        CLN |                                           Khe suèi |                                                                                  |            |                                |
+|   0 |  534111.58 | 1850789.69 |     1215.6 |        0.0 |       Kh¸c |        CLN |                                          Hå V¨n L¬ |                                                                                  |            |                                |
+| 250 |  534101.99 | 1850384.45 |      406.4 |      406.0 |       Kh¸c |        CLN |                                        Hå V¨n L¨ng |                                                                                  |            |                                |
+| 251 |  534100.79 | 1850377.00 |      404.9 |        0.0 |       Kh¸c |    ONT+CLN |                                                    |                                                                                  |            |                                |
+| 237 |  534105.82 | 1850398.77 |     1332.6 |     1333.0 |       Kh¸c |        CLN |                                       TrÇn ThÞ Mua |                                                                                  |            |                                |
+|   0 |  534102.84 | 1850335.82 |     1090.0 |        0.0 |       Kh¸c |        CLN |                                     §Êt Hå V¨n §Ëu |                                                                                  |            |                                |
+| 109 |  534117.49 | 1850431.52 |     2217.0 |     2217.0 |       Kh¸c |        CLN |                                        Hå V¨n Kh¨n |                                                                                  |            |                                |
+|   0 |  534124.79 | 1850466.01 |     1250.7 |        0.0 |       Kh¸c |        CLN |                                        §Êt Hå Nh­n |                                                                                  |            |                                |
+| 252 |  534098.89 | 1850364.02 |     1115.1 |     1115.0 |       Kh¸c |        CLN |                                          Hå Ta C¬n |                                                                                  |            |                                |
+|   0 |  534065.42 | 1850339.96 |     1121.9 |        0.0 |       Kh¸c |        CLN |                                      §Êt Hå Ta C¬n |                                                                                  |            |                                |
+| 249 |  534148.29 | 1850814.31 |     2585.9 |     2586.0 |       Kh¸c |        CLN |                                         Hå V¨n Dên |                                                                                  |            |                                |
+|   0 |  534179.53 | 1850830.93 |      581.8 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  534179.91 | 1850788.50 |     3352.0 |        0.0 |       Kh¸c |        CLN |                                       Hå V¨n Khµnh |                                                                                  |            |                                |
+|   0 |  534431.00 | 1850787.06 |      348.1 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  534310.97 | 1850769.58 |     1450.9 |        0.0 |       Kh¸c |        CLN |                                     Tr­êng MÇm Non |                                                                                  |            |                                |
+|  55 |  534398.98 | 1850744.18 |     8442.0 |     8442.0 |       Kh¸c |        CLN |                                 §­êng s¶n xuÊt, 4m |                                                                                  |            |                                |
+|   0 |  534456.73 | 1850708.84 |     6611.2 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Chim |                                                                                  |            |                                |
+|   0 |  534149.50 | 1850387.56 |     1198.8 |        0.0 |       Kh¸c |        CLN |                                   §­êng giao th«ng |                                                                                  |            |                                |
+___________________________________________________________________________________________________________________________________________________________________
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		D:\tin\Bientap\Butviet\dc36.dgn	:622080
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_6:0.010000
+PROCESSING LEVEL:6
+
+OUTPUT DGN FILE:		D:\tin\Bientap\Butviet\dc36.dgn	:266240
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           74
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         2
+NUMBER OF EXTENDED ELEMENTS:                         2
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		D:\tin\Bientap\Butviet\dc36.dgn	:289280
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_6:0.010000
+PROCESSING LEVEL:6
+
+OUTPUT DGN FILE:		D:\tin\Bientap\Butviet\dc36.dgn	:285184
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           74
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         2
+NUMBER OF EXTENDED ELEMENTS:                         2
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+

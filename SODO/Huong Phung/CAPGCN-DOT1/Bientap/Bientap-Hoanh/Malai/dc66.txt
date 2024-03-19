@@ -1,0 +1,153 @@
+_____________________________________________________________________________________________________________________________________________________________________________________________
+|Thöa |   T©m X    |     T©m Y  |  DiÖn tÝch |  D/tÝch PL |  Lo¹i ®Êt  |  MDSD2003  |        Tªn chñ sö dông         |           §Þa chØ              |Sh Tam|             Xu dong          |
+|-----|------------|------------|------------|------------|------------|------------|--------------------------------|--------------------------------|------|------------------------------|
+|   0 |  535441.48 | 1847191.77 |     1236.6 |        0.0 |       Kh¸c |        CLN |                                           Hå A Nha |                                                                                  |            |                                |
+|   0 |  535453.49 | 1847038.24 |     2623.3 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n C¸t |                                                                                  |            |                                |
+|   0 |  535339.30 | 1847260.14 |     2050.7 |        0.0 |       Kh¸c |        CLN |                                       Hå V¨n T­êng |                                                                                  |            |                                |
+|   0 |  535477.84 | 1847158.41 |      901.2 |        0.0 |       Kh¸c |        CLN |                                           Hå A Nha |                                                                                  |            |                                |
+|   0 |  535349.81 | 1847004.63 |     2264.2 |        0.0 |       Kh¸c |        CLN |                                               Suèi |                                                                                  |            |                                |
+|   0 |  535281.12 | 1847264.55 |      838.1 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n Tam |                                                                                  |            |                                |
+|   0 |  535295.61 | 1847256.24 |     1015.6 |        0.0 |       Kh¸c |        CLN |                                     Hå ThÞ Ta Rang |                                                                                  |            |                                |
+|   0 |  535410.93 | 1846990.82 |     2183.3 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n C¸t |                                                                                  |            |                                |
+|   0 |  535360.57 | 1847227.47 |     1819.3 |        0.0 |       Kh¸c |        CLN |                                           Hå A Nha |                                                                                  |            |                                |
+|   0 |  535394.19 | 1847053.23 |     2313.4 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n C¸t |                                                                                  |            |                                |
+|   0 |  535551.52 | 1847190.31 |     4194.0 |        0.0 |       Kh¸c |        CLN |                                           S«ng Sen |                                                                                  |            |                                |
+|   0 |  535132.56 | 1847186.73 |     4130.4 |        0.0 |       Kh¸c |        CLN |                                         Hå V¨n Bon |                                                                                  |            |                                |
+|   0 |  535216.69 | 1847255.61 |     5175.7 |        0.0 |       Kh¸c |        CLN |                                            Rõng ma |                                                                                  |            |                                |
+|   0 |  535516.36 | 1847271.83 |     2108.6 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Th¬n |                                                                                  |            |                                |
+|   0 |  535550.49 | 1847256.27 |     1297.1 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  535183.09 | 1847156.53 |     4898.3 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Th©n |                                                                                  |            |                                |
+|   0 |  535310.56 | 1847253.44 |      773.3 |        0.0 |       Kh¸c |        CLN |                                                    |                                                                                  |            |                                |
+|   0 |  535393.52 | 1847275.51 |     1542.0 |        0.0 |       Kh¸c |        CLN |                                        Hå V¨n Kiªu |                                                                                  |            |                                |
+|   0 |  535299.75 | 1847180.40 |     3051.5 |        0.0 |       Kh¸c |        CLN |                                       Hå V¨n ThiÒu |                                                                                  |            |                                |
+| 145 |  535266.43 | 1847215.19 |     4011.6 |     4012.0 |       Kh¸c |        CLN |                                        Hå V¨n KiÒu |                                                                             4012 |            |                                |
+| 148 |  535215.50 | 1847187.35 |     4716.4 |     4716.0 |       Kh¸c |        CLN |                                       Hå V¨n ThiÒu |                                                                             4716 |            |                                |
+| 170 |  535402.34 | 1847019.71 |     2572.6 |     2573.0 |       Kh¸c |        CLN |                                         Hå V¨n C¸t |                                                                             2573 |            |                                |
+| 191 |  535379.88 | 1847245.61 |     1798.4 |     1798.0 |       Kh¸c |        CLN |                                        Hå V¨n Ngon |                                                                             1798 |            |                                |
+| 192 |  535444.40 | 1847243.58 |     4948.3 |     2976.0 |       Kh¸c |        CLN |                                       Hå V¨n ThiÒu |                                                                             2976 |            |                                |
+| 193 |  535498.71 | 1847202.95 |     5346.4 |     5346.0 |       Kh¸c |        CLN |                                     Tr­¬ng ThÞ Tóy |                                                                             5346 |            |                                |
+___________________________________________________________________________________________________________________________________________________________________
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\tin\bientap\malai\dc66.dgn	:737792
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_6:0.010000
+PROCESSING LEVEL:6
+
+OUTPUT DGN FILE:		d:\tin\bientap\malai\dc66.dgn	:363008
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           75
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         1
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		d:\tin\bientap\malai\dc66.dgn	:390656
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:1
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:1
+CRITERIA_ZLOW:1
+CRITERIA_GRAPHIC_GROUP:1
+CRITERIA_PROPERTY_BITS:1
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:1
+CRITERIA_FILEPOS:1
+[LEVELS]
+LEVEL_6:0.010000
+PROCESSING LEVEL:6
+
+OUTPUT DGN FILE:		d:\tin\bientap\malai\dc66.dgn	:370688
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           91
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  2
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+NUMBER OF EXTENDED ELEMENTS:                         2
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               7
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
