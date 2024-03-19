@@ -1,0 +1,243 @@
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+| Thˆa(2)|       T©m X(3)|       T©m Y(4)|   Di÷n T›ch(5)|       DT CÚ(6)|    Loπi Æ t(7)|                          H‰ T™n(8)|                         ßﬁa Chÿ(9)|   SH tπm(10)|                       X¯ ÆÂng(11)|DTSD(12)|  NS(13)|     CMTND(14)|            Ngµy c p(15)|                       N¨i c p(16)|                        T™n VC(17)|NSVC(18)|   CMTNDVC(19)|            Ngµy c p(20)|                       N¨i c p(21)|     SË HK(22)|         Ngµy c p HK(23)|                    N¨i c p HK(24)|     MDSD_QH(25)|    MDSD_GCN(26)|             MDSD_CT(27)| Trπng th∏i(28)|     SH L´(29)|GT(30)|QH(31)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|       5|      549767.82|     1840606.17|        1055.00|           0.00|            DGT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      19|      550559.11|     1840295.52|        6543.00|           0.00|            DGT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      22|      550398.78|     1840696.07|        2366.00|           0.00|            LNC|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      30|      549640.55|     1840485.49|       79851.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+|      37|      550539.38|     1840338.22|        5570.00|           0.00|            DGT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      38|      550352.25|     1840450.65|        6429.00|           0.00|            LNC|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      45|      551249.79|     1839854.73|      111926.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+|      46|      550578.42|     1839994.08|      686014.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+|      49|      551655.97|     1839782.80|       30290.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+|      56|      551006.25|     1839702.31|        8773.00|           0.00|            LNK|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |               |              |     1|0.00
+|      91|      552136.94|     1838510.46|      294583.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+|     436|      550287.12|     1840617.16|      356303.00|           0.00|            RPT|                                   |                                   |             |                                  |     GDC|        |              |                        |                                  |                                  |        |              |                        |                                  |              |                        |                                  |                |                |                        |           Th.V|              |     1|0.00
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:614912
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:0
+CRITERIA_ZLOW:0
+CRITERIA_GRAPHIC_GROUP:0
+CRITERIA_PROPERTY_BITS:0
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:0
+CRITERIA_FILEPOS:0
+[LEVELS]
+LEVEL_10:0.010000
+LEVEL_12:0.010000
+LEVEL_20:0.010000
+LEVEL_21:0.010000
+LEVEL_23:0.010000
+LEVEL_25:0.010000
+LEVEL_31:0.010000
+LEVEL_32:0.010000
+LEVEL_34:0.010000
+LEVEL_40:0.010000
+LEVEL_42:0.010000
+LEVEL_44:0.010000
+LEVEL_46:0.010000
+LEVEL_49:0.010000
+LEVEL_52:0.010000
+LEVEL_53:0.010000
+
+OUTPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:607744
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           104
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  2
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         32
+NUMBER OF EXTENDED ELEMENTS:                         32
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               1
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  1 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:627200
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:0
+CRITERIA_ZLOW:0
+CRITERIA_GRAPHIC_GROUP:0
+CRITERIA_PROPERTY_BITS:0
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:0
+CRITERIA_FILEPOS:0
+[LEVELS]
+LEVEL_10:0.010000
+LEVEL_12:0.010000
+LEVEL_20:0.010000
+LEVEL_21:0.010000
+LEVEL_23:0.010000
+LEVEL_25:0.010000
+LEVEL_31:0.010000
+LEVEL_32:0.010000
+LEVEL_34:0.010000
+LEVEL_40:0.010000
+LEVEL_42:0.010000
+LEVEL_44:0.010000
+LEVEL_46:0.010000
+LEVEL_49:0.010000
+LEVEL_52:0.010000
+LEVEL_53:0.010000
+
+OUTPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:602112
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           106
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  3
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         30
+NUMBER OF EXTENDED ELEMENTS:                         31
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  0 s
+
+#-------------------------------------------------------------#
+
+#-------------------------------------------------------------#
+
+MRFClean Processing Report
+
+INPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:600064
+
+#-------------------------------------------------------------#
+
+FENCE_OPTION:1
+FENCE_FILE:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+FLAG_FONT_NUMBER:3
+REMOVE_DUPLICATES_BY_CRITERIA_OR_GEOMETRY:2
+USE_CELL_AS_NODE_OR_NON_NODE:2
+BY_LEVEL:0
+STROKE_CIRCULAR_ARCS:0
+FUZZY_INTERSECTION:1
+TRUE_INTERSECTION:1
+DEL_SUB_TOL_ELE:1
+DO_STROKE:1
+DO_SIMPLIFY:1
+DO_REMOVE_DUP:1
+DO_JOIN:1
+DO_REMOVE_DANGLE:1
+DO_CONFLATION:1
+DO_EXTENSION:1
+DO_SHORT_ELE:1
+DO_INTERSECTION:1
+CRITERIA_LEVEL:1
+CRITERIA_ZHIGH:0
+CRITERIA_ZLOW:0
+CRITERIA_GRAPHIC_GROUP:0
+CRITERIA_PROPERTY_BITS:0
+CRITERIA_COLOR:1
+CRITERIA_STYLE:1
+CRITERIA_WEIGHT:1
+CRITERIA_LINKAGES:0
+CRITERIA_FILEPOS:0
+[LEVELS]
+LEVEL_10:0.010000
+LEVEL_12:0.010000
+LEVEL_20:0.010000
+LEVEL_21:0.010000
+LEVEL_23:0.010000
+LEVEL_25:0.010000
+LEVEL_31:0.010000
+LEVEL_32:0.010000
+LEVEL_34:0.010000
+LEVEL_40:0.010000
+LEVEL_42:0.010000
+LEVEL_44:0.010000
+LEVEL_46:0.010000
+LEVEL_49:0.010000
+LEVEL_52:0.010000
+LEVEL_53:0.010000
+
+OUTPUT DGN FILE:		c:\000bien tap\tt khe sanh\bdin thﬁ tran khe sanh\dc1.dgn	:596992
+
+TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           110
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  1
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         32
+NUMBER OF EXTENDED ELEMENTS:                         34
+NUMBER OF DUPLICATED ELEMENTS REMOVED:               0
+
+MRFCLEAN SUCCESSFULLY COMPLETED!
+
+ELAPSED TIME:					 0 h  0 m  1 s
+
+#-------------------------------------------------------------#
+

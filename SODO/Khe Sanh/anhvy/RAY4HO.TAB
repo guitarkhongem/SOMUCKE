@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    RAY Char (20) ;
+    LO Char (20) ;
+    KHOANH Char (20) ;
+    TIEUKHU Char (20) ;
+    HIENTRANG Char (20) ;
+    DT Decimal (20, 2) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "087fe6cf-deab-4429-8017-24b0555d0f3f"
+end_metadata

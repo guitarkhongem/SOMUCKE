@@ -1,0 +1,74 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 62
+    plot_uuid Char (254) ;
+    commune_co Char (10) ;
+    compt_code Char (10) ;
+    sub_compt_ Char (10) ;
+    plot_code Char (10) ;
+    parcel_cod Char (10) ;
+    map_sheet Char (8) ;
+    village Char (50) ;
+    area Decimal (10, 2) ;
+    forest_use Integer ;
+    forest_fun Integer ;
+    site_cond_ Integer ;
+    forest_typ Integer ;
+    forest_org Integer ;
+    nar_for_or Integer ;
+    p_forest_o Integer ;
+    plant_stat Integer ;
+    tree_spec_ Char (100) ;
+    planting_y Integer ;
+    avg_year_c Integer ;
+    volume_per Decimal (8, 1) ;
+    volume_p_1 Decimal (10, 1) ;
+    stem_per_h Decimal (10, 3) ;
+    stem_per_p Decimal (10, 3) ;
+    actor_id Char (10) ;
+    actor_type Integer ;
+    land_use_c Integer ;
+    land_use_t Integer ;
+    conflict_s Integer ;
+    actor_id_c Char (10) ;
+    prot_contr Integer ;
+    actor_id_p Char (10) ;
+    old_plot_c Char (6) ;
+    pos_status Char (10) ;
+    desc Char (200) ;
+    change_typ Char (10) ;
+    date_time Char (24) ;
+    area_affec Decimal (11, 2) ;
+    volume_aff Decimal (11, 2) ;
+    stems_no_a Decimal (10, 3) ;
+    method_pla Integer ;
+    density_wo Decimal (11, 2) ;
+    density_ba Decimal (11, 2) ;
+    stems_no_t Decimal (11, 2) ;
+    stems_no_b Decimal (11, 2) ;
+    desc_monit Char (200) ;
+    change_t_1 Char (10) ;
+    ts_created Char (24) ;
+    ts_modifie Char (24) ;
+    churung Char (80) ;
+    dtich Char (80) ;
+    ldlr Char (80) ;
+    ma3lr Char (80) ;
+    forest_typ2019 Integer ;
+    forest_fun2019 Integer ;
+    actor_type2019 Integer ;
+    ThaydoiForest_typ Integer ;
+    ThaydoiForest_fun Integer ;
+    ThaydoiActor_type Integer ;
+    Duan Char (80) ;
+    LydothaydoiLR Char (160) ;
+    Ghichu Char (160) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "0bfdb4c0-f546-4b7b-b957-3b06ab6cbadf"
+end_metadata
