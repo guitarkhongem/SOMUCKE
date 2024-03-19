@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx version="1.1" creator="GPS Utility 4.20 - http:/www.gpsu.co.uk"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<wpt lat="16.624474" lon="106.702082"><ele>376.302734</ele><name>4101</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624464" lon="106.702003"><ele>375.813507</ele><name>4102</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624478" lon="106.701959"><ele>375.933289</ele><name>4103</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624509" lon="106.701962"><ele>375.903961</ele><name>4104</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624523" lon="106.701972"><ele>376.235229</ele><name>4105</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624561" lon="106.701974"><ele>376.17511</ele><name>4106</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624602" lon="106.701973"><ele>376.207489</ele><name>4107</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624638" lon="106.701897"><ele>376.330414</ele><name>4108</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624723" lon="106.701888"><ele>377.234192</ele><name>4109</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624913" lon="106.701899"><ele>378.675781</ele><name>4110</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.624990" lon="106.701886"><ele>379.127319</ele><name>4111</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625101" lon="106.701796"><ele>379.317719</ele><name>4112</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625102" lon="106.701585"><ele>376.639771</ele><name>4113</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625382" lon="106.701632"><ele>376.303467</ele><name>4114</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625369" lon="106.701786"><ele>379.95285</ele><name>4115</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625299" lon="106.702184"><ele>384.532654</ele><name>4116</name><sym>Waypoint</sym></wpt>
+<wpt lat="16.625219" lon="106.702180"><ele>384.335419</ele><name>4117</name><sym>Waypoint</sym></wpt>
+
+</gpx>
