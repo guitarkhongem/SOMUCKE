@@ -1,0 +1,197 @@
+reports report_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\'
+reports percentage -1.000000
+reports raw_statistics_flag 1
+reports raw_histogram_flag 1
+reports stretched_statistics_flag 1
+reports stretched_histogram_flag 1
+reports pixel_report_flag 0
+reports pixel_raw_report_flag 0
+reports pixel_report_display_flag 0
+reports area_format_flag 17
+reports gui_area_format_flag 0
+reports keyin_start_line 0
+reports keyin_start_pixel 0
+reports keyin_number_of_lines 0
+reports keyin_number_pixel_line 0
+mi rulers 0
+mi density -1000
+displaySettings overview_use 20
+displaySettings gamma 1.00
+displaySettings part_vlt 0
+displaySettings transparencyFlag 1
+displaySettings transparencyValue 0
+displaySettings dither_slots 125
+displaySettings upward_sampling 66.67
+displaySettings fast_rle_display 1
+displaySettings grid_lines -8
+processingSettings tmpfile_dir 'C:\Users\ADMINI~1\AppData\Local\Temp\
+processingSettings perm_files 0
+processingSettings auto_hist_collect -1.00
+processingSettings sampling_percentage 3.00
+processingSettings wide_histogram 1
+processingSettings one_layer_display 1
+processingSettings display_histograms 1
+processingSettings dither_factor 4
+processingSettings system exclude1_16s -32768.000000
+processingSettings system exclude1_32s -2147483648.000000
+extract by_method  1
+extract bgcolor  0
+extract edg_pixels  1
+hist_form select_mode 1
+hist_form display_mode 3
+hist_form auto_disp 0
+hist_form stack_depth 10
+hist_form recursion_mode 0
+hist_form form_priority 0
+hist_form select_all 1
+hist_form stereo_select 1
+hist_form width_mode 1
+hist_form screen_x 0
+hist_form screen_y 50
+hist_form screen_dx 282
+hist_form screen_dy 268
+hist_form screen_orient 1
+hist_form user_mono_width 290
+hist_form user_stereo_width 580
+hist_form user_grey_height 484
+hist_form user_rgb_height 728
+hist_form delay_update 1
+hist_form display_locks 1
+hist_form scale_indep 1
+hist_form scale_disp 0
+hist_form our_rng_pct 25.000000
+hist_form exp_fact 0.000000
+hist_form exp_max 5.000000
+hist_form log_fact 2.718300
+hist_form log_max 5.000000
+hist_form linpct_pct 0.000000
+hist_form linpct_max 10.000000
+hist_form report_path 'C:\Users\Administrator\Google
+hist_form lutmgr_path 'C:\Users\Administrator\Google
+hist_form lutmgr_fname '
+layer_settings filename 'C:\Users\Administrator\Google
+open comp_flag 0
+open place_method 0
+open col_tab_src 0
+open clrtabfile 
+open binary_color 0
+open views 255
+open view_lock 0
+open same_layer_warning 1
+open auto_next_layer 1
+open erase_current_active 0
+open percent_clip 1.000000
+open sup_hist_col 1
+open sup_ov_create 1
+border display 0
+interp_display views 0 0 0 0 0 0 0 0
+interp_display threshold 2.500000
+imageFiles filter *.*
+imageFiles format 1
+imageFiles drive 0
+imageFiles path C:\Users\Administrator\Google Drive\Bandongoailamnghiepcacxa\TANHOP\BDDC\
+imageFiles filename 
+imageFiles redfile 
+imageFiles grefile 
+imageFiles blufile 
+layer_control sort_by 0
+save cfile_standard  0
+save tiled  1
+save tilesize  128
+save compression  0
+save qfactor  15
+pixel_zoom view 2
+pixel_zoom factor 10.000000
+record2 script ''
+submit script 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\'
+submit log_file ''
+view_tracking on
+view_tracking auto_update
+pixel_paint lines  3
+pixel_paint pixels  3
+pixel_paint pixel_values  0
+pixel_clone lines  3
+pixel_clone pixels  3
+imtomap_com_par region 0
+imtomap_com_par resample 0
+imtomap_com_par model 1
+imtomap_com_par method 0
+imtomap_com_par input_detwin 0
+imtomap_com_par control_detwin 0
+imtomap_com_par input_display 0
+imtomap_com_par control_display 0
+imtomap_com_par alpha -0.500000
+imtomap_com_par coord_file 'C:\Users\Administrator\Google
+imtomap_com_par report_file 'C:\Users\Administrator\Google
+imtoim_com_par region 0
+imtoim_com_par resample 0
+imtoim_com_par model 1
+imtoim_com_par method 0
+imtoim_com_par alpha -0.500000
+imtoim_com_par input_detwin 0
+imtoim_com_par control_detwin 0
+imtoim_com_par input_display 0
+imtoim_com_par control_display 0
+imtoim_com_par coord_file 'C:\Users\Administrator\Google
+imtoim_com_par report_file 'C:\Users\Administrator\Google
+splice_com_par region 0
+splice_com_par apply_maps 1
+splice_com_par feathering 1
+splice_com_par feather_width 25
+splice_com_par model 1
+splice_com_par method 0
+splice_com_par alpha -0.500000
+splice_com_par input_detwin 0
+splice_com_par control_detwin 0
+splice_com_par input_display 0
+splice_com_par control_display 0
+splice_com_par coord_file 'C:\Users\Administrator\Google
+splice_com_par report_file 'C:\Users\Administrator\Google
+reflect_com_par flip_resamp 0
+reflect_com_par mirror_resamp 0
+reflect_com_par trans_resamp 0
+reflect_com_par rotate_resamp 0
+reflect_com_par affine_resamp 0
+reflect_com_par method 0
+reflect_com_par bg_color 0
+reflect_com_par alpha -0.500000
+pipe_com_par clip_percent 5.000000
+pipe_com_par sampling_percent 1.000000
+pipe_com_par ignore_zeros 1
+pipe_com_par use_luts 1
+pnt_collect_par auto_disp_resids 1
+pnt_collect_par default_label 1
+pnt_collect_par marker_color 0
+pnt_collect_par interp_z 0
+point_collect_par xCorWin 11
+point_collect_par yCorWin 11
+point_collect_par xSerWin 31
+point_collect_par ySerWin 31
+point_collect_par grid_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\
+point_collect_par ct_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\control.pts
+point_collect_par im_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\image.pts
+point_collect_par pr_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\points.pts
+point_collect_par report_file 'F:\Google Driver\Bandongoailamnghiepcacxa\TANHOP\BDDC\points.rpt
+math_par operation 0
+math_par autoscale 1
+math_par low_clip 0.000000
+math_par high_clip 0.000000
+math_par num_std_dev 3.000000
+math_par percentage -1.000000
+math_par coll_method 0
+math_par output_format 2
+convo kernel_path 'C:\Users\Administrator\Google
+convo kernel_file '
+convo autoscale 0
+convo low_clip 0.000000
+convo high_clip 0.000000
+convo num_std_dev 3.000000
+convo percentage -1.000000
+convo coll_method 0
+convo output_format 0
+plot dither 1
+plot fence  0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+plot rotation 0.000000
+plot Oorient 0
+plot transparency 0
+plot rep_layer 0

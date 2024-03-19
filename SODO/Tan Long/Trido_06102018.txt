@@ -1,0 +1,89 @@
+H  SOFTWARE NAME & VERSION
+I  GPSU 4.20 01 REGISTERED to 'Hoang Duong'
+S DateFormat=dd/MM/yyyy
+S Units=M,M
+S SymbolSet=1
+
+H R DATUM
+M E              VN-QTRI 203  0.0000000E+00  0.0000000E+00 -193 -39 -111
+
+H  COORDINATE SYSTEM
+U  VN-QTRI
+
+F ID---- Zne Eastng Northng Symbol---- T O  Alt(m)   Comment
+W 158    00Q 545124 1841291 Waypoint   I E     482.1 
+W 159    00Q 545160 1841277 Waypoint   I E     482.8 
+W 160    00Q 545204 1841266 Waypoint   I E     488.5 
+W 161    00Q 545277 1841248 Waypoint   I E     488.9 
+W 162    00Q 545310 1841248 Waypoint   I E     488.1 
+W 163    00Q 545324 1841243 Waypoint   I E     488.1 
+W 164    00Q 545378 1841221 Waypoint   I E     492.7 
+W 165    00Q 545392 1841213 Waypoint   I E     492.6 
+W 166    00Q 545412 1841194 Waypoint   I E     495.5 
+W 167    00Q 545431 1841193 Waypoint   I E     495.5 
+W 168    00Q 545480 1841191 Waypoint   I E     494.9 
+W 169    00Q 545489 1841198 Waypoint   I E     494.2 
+W 170    00Q 545505 1841187 Waypoint   I E     496.6 
+W 171    00Q 545517 1841181 Waypoint   I E     503.2 
+W 172    00Q 545536 1841169 Waypoint   I E     505.9 
+W 173    00Q 545543 1841172 Waypoint   I E     507.7 
+W 174    00Q 545552 1841150 Waypoint   I E     517.0 
+W 175    00Q 545564 1841113 Waypoint   I E     532.1 
+W 176    00Q 545566 1841083 Waypoint   I E     540.1 
+W 177    00Q 545573 1841056 Waypoint   I E     553.8 
+W 178    00Q 545580 1841042 Waypoint   I E     560.1 
+W 179    00Q 545578 1841014 Waypoint   I E     563.9 
+W 180    00Q 545578 1840987 Waypoint   I E     568.1 
+W 181    00Q 545581 1840986 Waypoint   I E     569.8 
+W 182    00Q 545519 1841014 Waypoint   I E     561.5 
+W 183    00Q 545457 1841017 Waypoint   I E     555.3 
+W 184    00Q 545398 1841006 Waypoint   I E     549.8 
+W 185    00Q 545337 1841002 Waypoint   I E     552.0 
+W 186    00Q 545278 1840995 Waypoint   I E     559.0 
+W 187    00Q 545234 1840954 Waypoint   I E     562.1 
+W 188    00Q 545225 1840944 Waypoint   I E     561.9 
+W 189    00Q 545195 1840925 Waypoint   I E     566.9 
+W 190    00Q 545169 1840919 Waypoint   I E     568.5 
+W 191    00Q 545140 1840911 Waypoint   I E     575.0 
+W 192    00Q 545122 1840898 Waypoint   I E     576.3 
+W 193    00Q 545097 1840884 Waypoint   I E     585.1 
+W 194    00Q 545088 1840901 Waypoint   I E     585.2 
+W 195    00Q 545080 1840917 Waypoint   I E     585.3 
+W 196    00Q 545083 1840928 Waypoint   I E     581.1 
+W 197    00Q 545086 1840962 Waypoint   I E     568.4 
+W 198    00Q 545090 1840971 Waypoint   I E     567.7 
+W 199    00Q 545107 1840993 Waypoint   I E     560.5 
+W 200    00Q 545114 1841009 Waypoint   I E     556.0 
+W 201    00Q 545122 1841031 Waypoint   I E     547.6 
+W 202    00Q 545127 1841058 Waypoint   I E     541.0 
+W 203    00Q 545118 1841085 Waypoint   I E     541.0 
+W 204    00Q 545120 1841099 Waypoint   I E     539.0 
+W 205    00Q 545098 1841097 Waypoint   I E     541.9 
+W 206    00Q 545039 1841109 Waypoint   I E     527.2 
+W 207    00Q 545004 1841111 Waypoint   I E     524.8 
+W 208    00Q 544993 1841090 Waypoint   I E     511.0 
+W 209    00Q 544974 1841091 Waypoint   I E     509.0 
+W 210    00Q 544973 1841091 Waypoint   I E     509.0 
+W 211    00Q 544950 1841108 Waypoint   I E     505.3 
+W 212    00Q 544933 1841130 Waypoint   I E     503.5 
+W 213    00Q 544936 1841140 Waypoint   I E     502.5 
+W 214    00Q 545020 1841163 Waypoint   I E     500.9 
+W 215    00Q 545020 1841163 Waypoint   I E     501.6 
+W 216    00Q 544992 1841177 Waypoint   I E     509.3 
+W 217    00Q 544976 1841173 Waypoint   I E     507.3 
+W 218    00Q 544964 1841165 Waypoint   I E     505.7 
+W 219    00Q 544953 1841182 Waypoint   I E     505.8 
+W 220    00Q 544970 1841201 Waypoint   I E     511.6 
+W 221    00Q 544988 1841219 Waypoint   I E     522.9 
+W 222    00Q 545012 1841237 Waypoint   I E     531.7 
+W 223    00Q 545046 1841240 Waypoint   I E     525.2 
+W 224    00Q 545055 1841200 Waypoint   I E     527.6 
+W 225    00Q 545075 1841175 Waypoint   I E     532.1 
+W 226    00Q 545113 1841153 Waypoint   I E     528.9 
+W 227    00Q 545115 1841170 Waypoint   I E     529.0 
+W 228    00Q 545098 1841182 Waypoint   I E     533.3 
+W 229    00Q 545082 1841202 Waypoint   I E     531.1 
+W 230    00Q 545076 1841232 Waypoint   I E     530.3 
+W 231    00Q 545101 1841282 Waypoint   I E     513.8 
+W 232    00Q 545118 1841297 Waypoint   I E     508.7 
+
