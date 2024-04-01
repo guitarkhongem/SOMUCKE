@@ -1,0 +1,736 @@
+_____________________________________________________________________________________________________________________________
+|Thöa |  DiÖn tÝch |   T©m X    |     T©m Y  |  Lo¹i ®Êt  |        Tªn chñ sö dông         |           §Þa chØ              |
+|-----|------------|------------|------------|------------|--------------------------------|--------------------------------|
+|  78 |  363313.81 | 1838600.85 |      715.0 |          T |                                |                                |
+|  97 |  363284.78 | 1838604.53 |      856.5 |          T |                                |                                |
+|   1 |  363458.56 | 1838984.29 |      385.5 |          T |                                |                                |
+|   2 |  363408.11 | 1838990.76 |     1419.8 |          T |                                |                                |
+|   3 |  363399.60 | 1838961.04 |     1967.8 |          T |                                |                                |
+|   4 |  363441.82 | 1838963.65 |      998.6 |          T |                                |                                |
+|   5 |  363481.85 | 1838970.08 |     1212.1 |          T |                                |                                |
+|   6 |  363365.05 | 1838926.56 |     3332.8 |          T |                                |                                |
+|   7 |  363444.20 | 1838938.34 |     1084.9 |          T |                                |                                |
+|   8 |  363487.72 | 1838932.07 |     1960.1 |          T |                                |                                |
+|   9 |  363460.26 | 1838908.04 |     1012.1 |          T |                                |                                |
+|  10 |  363421.39 | 1838911.09 |     1847.9 |          T |                                |                                |
+|  11 |  363314.03 | 1838901.90 |      266.2 |          T |                                |                                |
+|  12 |  363418.39 | 1838888.12 |       38.6 |          T |                                |                                |
+|  13 |  363482.99 | 1838899.69 |      145.0 |          T |                                |                                |
+|  14 |  363412.85 | 1838871.88 |      646.3 |          T |                                |                                |
+|  15 |  363350.36 | 1838872.79 |     1843.6 |          T |                                |                                |
+|  16 |  363314.51 | 1838869.16 |     1359.3 |          T |                                |                                |
+|  17 |  363247.26 | 1838862.48 |     1935.2 |          T |                                |                                |
+|  18 |  363286.79 | 1838857.92 |     1665.8 |          T |                                |                                |
+|  19 |  363379.79 | 1838845.18 |     1362.7 |          T |                                |                                |
+|  20 |  363439.79 | 1838852.32 |     1648.8 |          T |                                |                                |
+|  21 |  363470.71 | 1838849.50 |     1645.8 |          T |                                |                                |
+|  22 |  363492.19 | 1838854.68 |     1558.4 |          T |                                |                                |
+|  23 |  363483.80 | 1838826.22 |      102.2 |          T |                                |                                |
+|  24 |  363455.44 | 1838837.94 |      532.6 |          T |                                |                                |
+|  25 |  363425.40 | 1838832.03 |      966.8 |          T |                                |                                |
+|  26 |  363401.90 | 1838837.14 |     2250.1 |          T |                                |                                |
+|  27 |  363340.56 | 1838826.12 |     3378.5 |          T |                                |                                |
+|  28 |  363244.06 | 1838830.92 |     2153.0 |          T |                                |                                |
+|  29 |  363254.46 | 1838808.61 |       58.9 |          T |                                |                                |
+|  30 |  363290.37 | 1838810.17 |     1106.9 |          T |                                |                                |
+|  31 |  363311.17 | 1838803.02 |      239.0 |          T |                                |                                |
+|  32 |  363480.34 | 1838786.56 |      243.7 |          T |                                |                                |
+|  33 |  363434.77 | 1838797.82 |     8521.5 |          T |                                |                                |
+|  34 |  363345.79 | 1838798.79 |      280.8 |          T |                                |                                |
+|  35 |  363322.93 | 1838796.69 |      265.5 |          T |                                |                                |
+|  36 |  363200.93 | 1838781.48 |     2257.3 |          T |                                |                                |
+|  37 |  363166.21 | 1838787.57 |      176.7 |          T |                                |                                |
+|  38 |  363232.97 | 1838760.45 |     1423.1 |          T |                                |                                |
+|  39 |  363439.54 | 1838765.37 |      807.7 |          T |                                |                                |
+|  40 |  363456.01 | 1838767.20 |      873.1 |          T |                                |                                |
+|  41 |  363490.32 | 1838765.12 |      910.5 |          T |                                |                                |
+|  42 |  363468.58 | 1838750.10 |        2.6 |          T |                                |                                |
+|  43 |  363418.92 | 1838756.05 |     1737.0 |          T |                                |                                |
+|  44 |  363401.48 | 1838756.62 |      557.1 |          T |                                |                                |
+|  45 |  363386.57 | 1838754.12 |      769.5 |          T |                                |                                |
+|  46 |  363346.48 | 1838758.24 |      247.7 |          T |                                |                                |
+|  47 |  363210.69 | 1838733.20 |     1230.1 |          T |                                |                                |
+|  48 |  363267.53 | 1838721.79 |     6622.8 |          T |                                |                                |
+|  49 |  363314.66 | 1838735.80 |     1222.6 |          T |                                |                                |
+|  50 |  363335.60 | 1838737.04 |     1567.4 |          T |                                |                                |
+|  51 |  363367.06 | 1838728.58 |     2844.9 |          T |                                |                                |
+|  52 |  363468.89 | 1838739.52 |     1493.8 |          T |                                |                                |
+|  53 |  363471.38 | 1838724.38 |      484.5 |          T |                                |                                |
+|  54 |  363415.17 | 1838717.54 |      365.3 |          T |                                |                                |
+|  55 |  363395.63 | 1838715.84 |      474.9 |          T |                                |                                |
+|  56 |  363247.49 | 1838681.10 |      153.1 |          T |                                |                                |
+|  57 |  363330.92 | 1838680.84 |     1063.6 |          T |                                |                                |
+|  58 |  363350.30 | 1838691.25 |      491.9 |          T |                                |                                |
+|  59 |  363442.74 | 1838689.83 |      533.9 |          T |                                |                                |
+|  60 |  363460.71 | 1838698.14 |      725.3 |          T |                                |                                |
+|  61 |  363425.38 | 1838678.44 |     2194.3 |          T |                                |                                |
+|  62 |  363397.69 | 1838662.40 |     1787.9 |          T |                                |                                |
+|  63 |  363381.05 | 1838675.05 |      242.3 |          T |                                |                                |
+|  64 |  363272.27 | 1838663.04 |      168.9 |          T |                                |                                |
+|  65 |  363259.36 | 1838672.34 |      297.5 |          T |                                |                                |
+|  66 |  363244.98 | 1838671.97 |        6.0 |          T |                                |                                |
+|  67 |  363278.48 | 1838658.44 |       36.4 |          T |                                |                                |
+|  68 |  363289.55 | 1838645.34 |      480.7 |          T |                                |                                |
+|  69 |  363311.66 | 1838657.62 |     1200.8 |          T |                                |                                |
+|  70 |  363350.58 | 1838652.49 |     1145.3 |          T |                                |                                |
+|  71 |  363373.92 | 1838650.49 |      864.7 |          T |                                |                                |
+|  72 |  363460.74 | 1838659.58 |     1344.0 |          T |                                |                                |
+|  73 |  363350.56 | 1838623.79 |      313.4 |          T |                                |                                |
+|  74 |  363327.43 | 1838627.84 |     1012.7 |          T |                                |                                |
+|  75 |  363294.46 | 1838623.57 |      238.5 |          T |                                |                                |
+|  76 |  363292.46 | 1838609.00 |      102.8 |          T |                                |                                |
+|  77 |  363294.49 | 1838600.46 |      145.5 |          T |                                |                                |
+|  79 |  363358.37 | 1838607.32 |     1997.7 |          T |                                |                                |
+|  80 |  363429.40 | 1838597.22 |     3375.8 |          T |                                |                                |
+|  81 |  363361.47 | 1838589.90 |      811.6 |          T |                                |                                |
+|  82 |  363304.83 | 1838580.53 |      333.6 |          T |                                |                                |
+|  83 |  363297.55 | 1838592.89 |      145.8 |          T |                                |                                |
+|  84 |  363306.72 | 1838568.49 |      210.4 |          T |                                |                                |
+|  85 |  363370.52 | 1838571.52 |     1947.5 |          T |                                |                                |
+|  86 |  363438.73 | 1838547.37 |     2681.0 |          T |                                |                                |
+|  87 |  363400.97 | 1838541.74 |       64.8 |          T |                                |                                |
+|  88 |  363320.44 | 1838553.52 |      325.0 |          T |                                |                                |
+|  89 |  363303.37 | 1838556.28 |      125.0 |          T |                                |                                |
+|  90 |  363354.12 | 1838538.98 |     3253.6 |          T |                                |                                |
+|  91 |  363397.69 | 1838524.33 |      571.0 |          T |                                |                                |
+|  92 |  363404.27 | 1838538.44 |        1.0 |          T |                                |                                |
+|  93 |  363481.64 | 1838530.09 |       55.9 |          T |                                |                                |
+|  94 |  363441.22 | 1838510.83 |     2738.8 |          T |                                |                                |
+|  95 |  363353.40 | 1838508.50 |     1340.5 |          T |                                |                                |
+|  96 |  363313.51 | 1838513.78 |      380.0 |          T |                                |                                |
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\tuong\\dc27.dgn
+INPUT FILE SIZE (BYTES):                             152576
+
+FENCE USED: no
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\tuong\\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:152576
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           289
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         0
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 7 s
+
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\tuong\dc27.dgn
+INPUT FILE SIZE (BYTES):                             155136
+
+FENCE USED: yes
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\tuong\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:97792
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           302
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  2
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         9
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 7 s
+
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\tuong\dc27.dgn
+INPUT FILE SIZE (BYTES):                             156672
+
+FENCE USED: yes
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\tuong\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:99328
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           312
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  4
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         9
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 7 s
+
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\tuong\\dc27.dgn
+INPUT FILE SIZE (BYTES):                             157184
+
+FENCE USED: yes
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\tuong\\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:99840
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           314
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  0
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         8
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 7 s
+
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\dchinh\dc27.dgn
+INPUT FILE SIZE (BYTES):                             217600
+
+FENCE USED: yes
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\dchinh\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:99840
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           316
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  5
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         8
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 8 s
+
+
+		 MRFCLEAN Processing Report
+
+INPUT DGN FILE:                                      c:\khesanh\dchinh\dc27.dgn
+INPUT FILE SIZE (BYTES):                             99840
+
+FENCE USED: no
+INPUT PARAMETERS:
+CURVE_FACTOR:2.000000
+DANGLE_FACTOR:1.000000
+FILTER_FACTOR:1.000000
+FREE_END_FLAG_LEVEL:63
+INTERSECTION_FLAG_LEVEL:
+SUB_TOL_ELE_FLAG_LEVEL:
+REMOVE_DUPLICATES_BY_ATTRIBUTE_OR_GEOMETRY(option):2
+USE_CELL_AS_NODE_OR_NON_NODE(option):1
+BY_LEVEL(toggle):1
+FAST(toggle):0
+STROKE_ARC(toggle):0
+FUZZY_INTERSECTION(toggle):1
+TRUE_INTERSECTION(toggle):1
+DEL_SUB_TOL_ELE(toggle):1
+LEVEL_1:
+LEVEL_2:
+LEVEL_3:
+LEVEL_4:
+LEVEL_5:
+LEVEL_6:
+LEVEL_7:
+LEVEL_8:
+LEVEL_9:
+LEVEL_10:0.100000
+LEVEL_11:
+LEVEL_12:
+LEVEL_13:
+LEVEL_14:
+LEVEL_15:
+LEVEL_16:
+LEVEL_17:
+LEVEL_18:
+LEVEL_19:
+LEVEL_20:
+LEVEL_21:
+LEVEL_22:
+LEVEL_23:
+LEVEL_24:
+LEVEL_25:
+LEVEL_26:
+LEVEL_27:
+LEVEL_28:
+LEVEL_29:
+LEVEL_30:
+LEVEL_31:
+LEVEL_32:
+LEVEL_33:
+LEVEL_34:
+LEVEL_35:
+LEVEL_36:
+LEVEL_37:
+LEVEL_38:
+LEVEL_39:
+LEVEL_40:
+LEVEL_41:
+LEVEL_42:
+LEVEL_43:
+LEVEL_44:
+LEVEL_45:
+LEVEL_46:
+LEVEL_47:
+LEVEL_48:
+LEVEL_49:
+LEVEL_50:
+LEVEL_51:
+LEVEL_52:
+LEVEL_53:
+LEVEL_54:
+LEVEL_55:
+LEVEL_56:
+LEVEL_57:
+LEVEL_58:
+LEVEL_59:
+LEVEL_60:
+LEVEL_61:
+LEVEL_62:
+LEVEL_63:
+
+MRFCLEAN IN PROGRESS ......
+	 READING DGN FILE
+	 PROCESSING LEVEL:                           10
+	 INTERSECTION
+	 CLUSTERING
+	 SPLITTING
+	 REMOVING DUPLICATES
+	 JOINING ELEMENTS
+	 REMOVING DANGLES
+	 CONFLATION
+	 WRITING TO OUTPUT DGN FILE
+OUTPUT DGN FILE:                                     c:\khesanh\dchinh\dc27.dgn
+OUTPUT FILE SIZE IN BYTES:100352
+                           TOTAL NUMBER OF LINEAR ELEMENTS PROCESSED:           319
+NUMBER OF CROSSOVER INTERSECTIONS FIXED OR FLAGGED:  1
+NUMBER OF SUB_TOL_ELEMENTS FIXED OR FLAGGED:         0
+NUMBER OF FREE-ENDS FLAGGED:                         8
+MRFCLEAN SUCCESSFULLY COMPLETED!
+ELAPSED TIME:                                        0 h 0 m 7 s
+
