@@ -1,0 +1,1125 @@
+32-bit DOS namod 92.11c vers 10011
+video mode is VRES16COLOR 18
+heapchk returns HEAPOK
+OK found end of heap
+at beginning of namod.c total memory = 56880
+dos = 28364  used heap = 8268  unused heap = 28516  stack = 204352
+number of arguments (argc) = 2
+argument 1 = C:\GPSURVEY\BIN\NAMODW.EXE
+argument 2 = C:\GPSURVEY\projects\ad\spawnarg.txt
+menu forms in file C:\GPSURVEY\bin\namod.frm
+heapchk returns HEAPOK
+OK found end of heap
+at beginning read_net_data total memory = 44976
+dos = 20324  used heap = 12132  unused heap = 24652  stack = 204112
+heapchk returns HEAPOK
+OK found end of heap
+at maximum memory allocation total memory = 45360
+dos = 21004  used heap = 118804  unused heap = 24356  stack = 204112
+heapchk returns HEAPOK
+OK found end of heap
+at conclusion read_net_data total memory = 49688
+dos = 21004  used heap = 114476  unused heap = 28684  stack = 204112
+heapchk returns HEAPOK
+OK found end of heap
+heapchk returns HEAPOK
+OK found end of heap
+after heapmin total memory = 49688
+dos = 21004  used heap = 114476  unused heap = 28684  stack = 204112
+aaxis=6378137.000000 baxis=6356752.314245
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 34724
+dos = 17340  used heap = 228056  unused heap = 17384  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 36320
+dos = 17340  used heap = 554100  unused heap = 18980  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 672660
+dos = 327636  used heap = 228056  unused heap = 345024  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 36320
+dos = 17340  used heap = 554100  unused heap = 18980  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=44669.491086 seuw=9.963209 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502765568 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 344012
+dos = 155604  used heap = 573008  unused heap = 188408  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+new ellipsoid radii = 6378137.000000 6356752.310000
+new datum name = vn2000
+linear measure is meter
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 688940
+dos = 326040  used heap = 693068  unused heap = 362900  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 62508
+dos = 25652  used heap = 1019112  unused heap = 36856  stack = 203680
+going to post_adjust after 1 iterations
+qfact returns chisqr=44669.666700 seuw=9.963229 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502765568 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 329172
+dos = 155604  used heap = 1038008  unused heap = 173568  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 677384
+dos = 326040  used heap = 1154784  unused heap = 351344  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 45916
+dos = 13800  used heap = 1474012  unused heap = 32116  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 677384
+dos = 326040  used heap = 1154784  unused heap = 351344  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 45916
+dos = 13800  used heap = 1474012  unused heap = 32116  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 677384
+dos = 326040  used heap = 1154784  unused heap = 351344  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 45916
+dos = 13800  used heap = 1474012  unused heap = 32116  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 677384
+dos = 326040  used heap = 1154784  unused heap = 351344  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 45916
+dos = 13800  used heap = 1474012  unused heap = 32116  stack = 203680
+going to post_adjust after 4 iterations
+qfact returns chisqr=239.367310 seuw=0.729334 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 331276
+dos = 155604  used heap = 1486064  unused heap = 175672  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 656348
+dos = 319224  used heap = 1619164  unused heap = 337124  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 30688
+dos = 12792  used heap = 1938392  unused heap = 17896  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 656348
+dos = 319224  used heap = 1619164  unused heap = 337124  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 30688
+dos = 12792  used heap = 1938392  unused heap = 17896  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=284.085158 seuw=0.794544 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 349784
+dos = 155604  used heap = 1950444  unused heap = 194180  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 674848
+dos = 319224  used heap = 2083552  unused heap = 355624  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 67664
+dos = 31268  used heap = 2402780  unused heap = 36396  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 674848
+dos = 319224  used heap = 2083552  unused heap = 355624  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 67664
+dos = 31268  used heap = 2402780  unused heap = 36396  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=302.102280 seuw=0.819352 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 335556
+dos = 155604  used heap = 2414832  unused heap = 179952  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 660624
+dos = 319224  used heap = 2547936  unused heap = 341400  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 39192
+dos = 17020  used heap = 2867164  unused heap = 22172  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 660624
+dos = 319224  used heap = 2547936  unused heap = 341400  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 39192
+dos = 17020  used heap = 2867164  unused heap = 22172  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=304.729283 seuw=0.822907 red_num=450.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 321332
+dos = 155604  used heap = 2879216  unused heap = 165728  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 634448
+dos = 315724  used heap = 3020772  unused heap = 318724  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 636924
+dos = 315724  used heap = 3337744  unused heap = 321200  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 957616
+dos = 319444  used heap = 3020772  unused heap = 638172  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 636924
+dos = 315724  used heap = 3337744  unused heap = 321200  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=520.100767 seuw=1.073879 red_num=451.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 612820
+dos = 303672  used heap = 3349796  unused heap = 309148  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 654408
+dos = 316968  used heap = 3485144  unused heap = 337440  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 35756
+dos = 15288  used heap = 3802116  unused heap = 20468  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 654408
+dos = 316968  used heap = 3485144  unused heap = 337440  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 35756
+dos = 15288  used heap = 3802116  unused heap = 20468  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=350.939817 seuw=0.882121 red_num=451.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 319628
+dos = 155604  used heap = 3814168  unused heap = 164024  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 640184
+dos = 316968  used heap = 3949528  unused heap = 323216  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 11152
+dos = 4908  used heap = 4266500  unused heap = 6244  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 640184
+dos = 316968  used heap = 3949528  unused heap = 323216  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 11152
+dos = 4908  used heap = 4266500  unused heap = 6244  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=316.953326 seuw=0.838319 red_num=451.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 338132
+dos = 155604  used heap = 4278552  unused heap = 182528  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 658684
+dos = 316968  used heap = 4413916  unused heap = 341716  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 44260
+dos = 19516  used heap = 4730888  unused heap = 24744  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 658684
+dos = 316968  used heap = 4413916  unused heap = 341716  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 44260
+dos = 19516  used heap = 4730888  unused heap = 24744  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=309.732927 seuw=0.828715 red_num=451.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 323904
+dos = 155604  used heap = 4742940  unused heap = 168300  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 644460
+dos = 316968  used heap = 4878300  unused heap = 327492  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 15788
+dos = 5268  used heap = 5195272  unused heap = 10520  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 644460
+dos = 316968  used heap = 4878300  unused heap = 327492  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 15788
+dos = 5268  used heap = 5195272  unused heap = 10520  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=312.073650 seuw=0.831841 red_num=451.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 342408
+dos = 155604  used heap = 5207324  unused heap = 186804  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501725184 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 633172
+dos = 304480  used heap = 5359988  unused heap = 328692  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 633800
+dos = 304480  used heap = 5674712  unused heap = 329320  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 959392
+dos = 315348  used heap = 5359988  unused heap = 644044  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 633800
+dos = 304480  used heap = 5674712  unused heap = 329320  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=309.718536 seuw=0.827779 red_num=452.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 609696
+dos = 292428  used heap = 5686764  unused heap = 317268  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 658028
+dos = 314720  used heap = 5824364  unused heap = 343308  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 51808
+dos = 23224  used heap = 6139088  unused heap = 28584  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 658028
+dos = 314720  used heap = 5824364  unused heap = 343308  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 51808
+dos = 23224  used heap = 6139088  unused heap = 28584  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=316.364122 seuw=0.836613 red_num=452.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 327744
+dos = 155604  used heap = 6151140  unused heap = 172140  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 643804
+dos = 314720  used heap = 6288748  unused heap = 329084  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 23336
+dos = 8976  used heap = 6603472  unused heap = 14360  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+before possible call to reorder total memory = 643804
+dos = 314720  used heap = 6288748  unused heap = 329084  stack = 203680
+heapchk returns HEAPOK
+OK found end of heap
+after normals halloc total memory = 23336
+dos = 8976  used heap = 6603472  unused heap = 14360  stack = 203680
+going to post_adjust after 2 iterations
+qfact returns chisqr=316.413169 seuw=0.836677 red_num=452.000000
+Now calling function create_undulate
+tot_obs = 0  fixed_obs = 0
+file undulate.dat not created because r == zero
+returned from create_undulate
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502700544 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502635520 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502570496 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502505472 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502440448 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502375424 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502310400 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502245376 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502180352 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502115328 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 502050304 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501985280 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501920256 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501855232 bytes
+heapchk returns HEAPOK
+OK found end of heap
+during ellipse plotting total memory = 346248
+dos = 155604  used heap = 6615524  unused heap = 190644  stack = 203056
+numxpixels = 640 numypixels = 480
+in dump2_image available disk space = 501790208 bytes
+number of covariant terms = 4465
+writing p_group 0 length of tag= 16
+tag=GPS Observations
+heapchk returns HEAPOK
+OK found end of heap
+on exit before deallocation total memory = 789812
+dos = 314720  used heap = 6625628  unused heap = 475092  stack = 204352
+normal exit from namod.c
+heapchk returns HEAPOK
+OK found end of heap
+on exit from namod.c total memory = 900744
+dos = 314720  used heap = 6514696  unused heap = 586024  stack = 204352
+now exiting from network adjustment errlog
+just wrote 0 to exitcode.tmp
