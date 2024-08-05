@@ -1,0 +1,48 @@
+Update 1/1/1995
+
+
+	       ****** TOP2ASC Ver 3.01 ******
+
+This program is written for the convenience of transmitting data from Topcon's 
+instruments to the computer.
+
+Operation procedures:
+
+1.The default serial port is set to serial port COMM 1. If you are using other
+  port, then use an editor, change the Port device name in CONFIG.
+  Note: CONFIG is a configuration file. It is stored it in the disk.
+								    
+2.Type TOP2ASC to start the program.
+
+3.Select the required instrument type.
+
+4.Type a filename to store the raw data.
+
+5.Follow instruction shown on screen to start.
+
+6.Upon completion, you should see 3 files with extension as: .TOP/ .ASC/ .SDR
+	.TOP : default format from Topcon 
+	.ASC : ASCII text data
+	.SDR : data format for SDRMap program
+
+  Note: Downloaded data with a undefine format will be stored under .ERR
+
+7.You can view and edit all files by any editor program.
+
+8.For sending to printer, exit from the program and type
+	 COPY (filename.ext) LPT1:
+
+
+
+Important tips:
+
+1.This program supports the following data recording mode:
+	
+	a)Slope Distance Mode (SD) 			 ------ FC-5 / FC-2 
+	  Horizontal Distance Mode (HD)			 	       GTS-6
+	  Vertical Angle Mode (VA)				       CR-1
+
+	b)Coordinate Mode (XYZ) data			 ------ FC-5 only
+
+2.The selection of recording mode depended merely on survey application. In
+  most cases, user will select SD mode because it gives all measurements.
